@@ -1,5 +1,4 @@
-## Hi there 👋, my name is RUFUS KAIRU
-
+## Hi there 👋,
 - I am Passionate about building impactful, intelligent systems through data, machine learning, and Generative AI.
 - Currently deepening my skills in Generative AI and AWS Cloud Services.  .
 
