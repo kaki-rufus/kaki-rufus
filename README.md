@@ -35,7 +35,9 @@ Currently deepening my skills in Generative AI and AWS Cloud Services.  .
 
 ## 📊 GitHub Stats
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaki-rufus&show_icons=true&theme=radical)
+-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaki-rufus&layout=compact&theme=radical)
 
 ---
