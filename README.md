@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is RUFUS KAIRU
 
-I am Passionate about building impactful, intelligent systems through data, machine learning, and Generative AI.
-Currently deepening my skills in Generative AI and AWS Cloud Services.  .
+- I am Passionate about building impactful, intelligent systems through data, machine learning, and Generative AI.
+- Currently deepening my skills in Generative AI and AWS Cloud Services.  .
 
 ### My GitHub is a growing portfolio of real-world projects:
 - AI and ML systems trained on custom datasets
