@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 I am Passionate about building impactful, intelligent systems through data, machine learning, and Generative AI.
-Currently deepening my skills in Generative AI and AWS Cloud Services.  
-- My work spans across NLP, Computer Vision, Data Analytics, and predictive modeling — all with a strong foundation in Python, React, and Django.
+Currently deepening my skills in Generative AI and AWS Cloud Services.  .
 
 📁 My GitHub is a growing portfolio of real-world projects:
 - AI and ML systems trained on custom datasets
@@ -11,7 +10,7 @@ Currently deepening my skills in Generative AI and AWS Cloud Services.
 - End-to-end websites using Django APIs + React frontends
 
 🏆 Recognized at national competitions including:
-- Zindi Africa for curative AI solutions : [Certificate](https://zindi.africa/users/rufus_kaki/competitions/certificate)
+- Zindi Africa for curative AI solutions : [Certificates](https://zindi.africa/users/rufus_kaki/competitions/certificate)
 - Finalist: Datathon Kenya 2023 (DTE Consultancy) [Link](https://www.kaggle.com/code/stephenkolesh/phase-ii-challenge/edit/run/147386118)
 - Winner: KEMRI Hackathon (ML Health Data Analysis) [Link](https://github.com/kaki-rufus/KEMRI-HACKATHON-NOTEBOOK/blob/main/Customer_Satisfaction%20(1).ipynb)
 
@@ -19,7 +18,7 @@ Currently deepening my skills in Generative AI and AWS Cloud Services.
 - I’m always open to exciting collaborations in AI, cloud, and data innovation. Most of my best projects are still under the hood — feel free to connect and explore ideas!
 
 📫 Reach me: kakirufus06@gmail.com  
-🌐 Connect on [LinkedIn](https://www.linkedin.com/in/rufus-kairu-1016b0229))
+🌐 Connect on [LinkedIn](https://www.linkedin.com/in/rufus-kairu-1016b0229)
 
 
 <!--
