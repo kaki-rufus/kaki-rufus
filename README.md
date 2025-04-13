@@ -3,13 +3,13 @@
 I am Passionate about building impactful, intelligent systems through data, machine learning, and Generative AI.
 Currently deepening my skills in Generative AI and AWS Cloud Services.  .
 
-📁 My GitHub is a growing portfolio of real-world projects:
+### My GitHub is a growing portfolio of real-world projects:
 - AI and ML systems trained on custom datasets
 - Exploratory Data Analysis and forecasting pipelines
 - NLP tools analyzing sentiment from customer feedback
-- End-to-end websites using Django APIs + React frontends
 
-🏆 Recognized at national competitions including:
+
+### Recognized at national competitions including:
 - Zindi Africa for curative AI solutions : [Certificates](https://zindi.africa/users/rufus_kaki/competitions/certificate)
 - Finalist: Datathon Kenya 2023 (DTE Consultancy) [Link](https://www.kaggle.com/code/stephenkolesh/phase-ii-challenge/edit/run/147386118)
 - Winner: KEMRI Hackathon (ML Health Data Analysis) [Link](https://github.com/kaki-rufus/KEMRI-HACKATHON-NOTEBOOK/blob/main/Customer_Satisfaction%20(1).ipynb)
