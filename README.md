@@ -21,6 +21,27 @@ Currently deepening my skills in Generative AI and AWS Cloud Services.  .
 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/rufus-kairu-1016b0229)
 
 
+
+## 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaki-rufus&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaki-rufus&layout=compact&theme=radical)
+
+---
+
+
+
 <!--
 **kaki-rufus/kaki-rufus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
