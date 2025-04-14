@@ -2,13 +2,13 @@
 - I am Passionate about building impactful, intelligent systems through data, machine learning, and Generative AI.
 - Currently deepening my skills in Generative AI and AWS Cloud Services.  .
 
-### My GitHub is a growing portfolio of real-world projects:
+## My GitHub is a growing portfolio of real-world projects:
 - AI and ML systems trained on custom datasets
 - Exploratory Data Analysis and forecasting pipelines
 - NLP tools analyzing sentiment from customer feedback
 
 
-### See some of my Achievements and Recognitions below :
+## See some of my Achievements and Recognitions below :
 - Data Analytics by Google : [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/2JKR4KQGTR72)
 - Zindi Africa for curative AI solutions : [Certificates](https://zindi.africa/users/rufus_kaki/competitions/certificate)
 - Finalist: Datathon Kenya 2023 (DTE Consultancy) [Link](https://www.kaggle.com/code/stephenkolesh/phase-ii-challenge/edit/run/147386118)
