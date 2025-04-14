@@ -8,7 +8,7 @@
 - NLP tools analyzing sentiment from customer feedback
 
 
-### Recognized at national competitions including:
+### See some of my Achievements and Recognitions below :
 - Data Analytics by Google : [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/2JKR4KQGTR72)
 - Zindi Africa for curative AI solutions : [Certificates](https://zindi.africa/users/rufus_kaki/competitions/certificate)
 - Finalist: Datathon Kenya 2023 (DTE Consultancy) [Link](https://www.kaggle.com/code/stephenkolesh/phase-ii-challenge/edit/run/147386118)
